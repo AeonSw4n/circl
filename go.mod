@@ -8,4 +8,4 @@ require (
 	golang.org/x/sys v0.0.0-20211124211545-fe61309f8881
 )
 
-replace github.com/cloudflare/circl@1.1.0 => github.com/AeonSw4n/circl v1.0.0
+replace github.com/cloudflare/circl v1.1.0 => github.com/AeonSw4n/circl v1.0.0
